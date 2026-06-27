@@ -157,6 +157,38 @@ Read a sacrificial anode as a sincere audience-bet and you misdiagnose every sha
 
 Authenticity asks whether a character is true **to itself** (construction). This instrument asks whether a character is cut for a **targeted reader fixed at the workshopping stage** (address). A character is a **precisely-cut key for a specific demographic lock.** The two tests are independent: a character can be flawlessly authentic and still miss, because it was aimed at a reader who doesn't exist. Hemsworth's secretary fails both — *authenticity:* no one wrote the part; *address:* the part was aimed at no one — but they are different failures, and keeping them distinct is the advance.
 
+## II.8 The two ways to cut the key — appeal vs. reflection *(established by Cases 01 & 02)*
+
+A well-cut key can be produced by **two different mechanisms with opposite risk profiles.** Both live in the original thesis ("precise appeal **or** reflection to its intended reader"); the matched pair *Morbius* / *Clerks* carves the thesis at that joint.
+
+- **Appeal (calculation, top-down).** Engineer the audience from data, model the demographic, construct precise appeal. **Failure mode: the phantom lock.** You can calculate your way to an audience that does not exist (*Morbius*, §II.1).
+- **Reflection (mirror, bottom-up).** Address yourself and your own cohort; precision is a *by-product* of authenticity. **Structurally phantom-immune** — you cannot aim at a non-existent version of yourself, so the lock is *always real* (*Clerks*).
+
+**But phantom-immune ≠ safe.** Reflection guarantees the lock is **real**; it guarantees nothing about whether the lock is **big.** Its risk is the **terminal niche** — a real audience that stays permanently small. So the two risks are **asymmetric, and the felt risk is inverted from the true risk:**
+
+| | Appeal / data | Reflection / self |
+|---|---|---|
+| The risk | Lock may be a **phantom** (not exist) | Lock may be **terminal** (real but small) |
+| How the risk *feels* | **Safe** — the numbers say the audience is there | **Reckless** — no numbers, just the self |
+| True profile | Phantom-prone; landmark-incapable | High-variance; landmark-capable |
+
+*Data-betting feels safe and is secretly phantom-prone; self-betting feels reckless and is the only path to an original.* "Nobody had any idea how strongly it would resonate" is the exact phenomenology of a high-variance reflection bet whose payoff is unknowable when placed.
+
+## II.9 Why data cannot build landmarks — the leading-edge mechanism *(keystone)*
+
+This is the deepest consequence of the lag (§II.3), now stated as a property of the *method* rather than an accident of any one film.
+
+- **Algorithms, data-scraping, and playbooks are the industrialised form of the lag.** Data exists only about the **measured past**; a playbook is a record of what worked **before.** The method is therefore *constitutionally* backward-looking — blind to any demographic that has not yet generated data, which is exactly where new landmarks are born.
+- Such a method can **recombine** the measured past into **derivatives**, but is **incapable of an original**, because an original requires sampling the **unmeasured frontier.**
+- The only instrument that reads the unmeasured frontier is a **maker reflecting a leading edge from the inside.** Such a maker is a **living sample** of an emergent shape, so rendering the self faithfully renders the *coming mainstream* — **prediction by embodiment, not extrapolation.** (Smith did not forecast the next decade; he was an early *specimen* of it.)
+
+> **A genuinely new cultural landmark cannot be manufactured by data, ever — because data is the fossil record of *old* landmarks. Data builds derivatives; only reflection-of-a-frontier builds originals — and that is unavoidably a gamble, because you cannot know in advance whether your frontier is a leading edge or a dead end.**
+
+**The closing irony of the pair:** *Morbius* is a data-driven **derivative** of the very mainstream that *Clerks* helped **call into being** by reflection. The comic-shop frontier Smith sampled in 1994 became the comic-book-movie monoculture an algorithm later strip-mined so mechanically it produced a phantom. *The frontier became the water; the playbook drowned in it.*
+
+**Full causal chain for a landmark** (three independent conditions, only one controllable):
+**authentic reflection** (real lock — *controllable*) × **leading-edge niche** (latent mass — ***unknowable at creation***) × **distribution** (access, e.g. a Sundance/Miramax gate — *separate*). A maker can *know* they have the first; the second is the bet; the third is luck or muscle. This is the honest resolution of the survivorship problem (§IV.3): the thousands of forgotten authentic indies reflected niches that were **terminal**, not leading edges. Authenticity buys a real lock; it does **not** buy scale.
+
 ---
 ---
 
@@ -185,6 +217,14 @@ Both clear the **sliding window of cinema history**, "each for different reasons
 
 > One **floats** (bedrock); the other **swims** (transmission). Durability has (at least) two independent routes, and the three-question sweep should identify which route a survivor is on.
 
+## III.5 Durability tracks the reality of the lock, not the precision of the aim *(load-bearing finding, from Cases 01 & 02)*
+
+The matched off-diagonal pair — *Morbius* (precise aim, phantom lock → flopped, **sterile**) against *Clerks* (no aim, real lock → endured, **generative**) — are **opposite on targeting and opposite on outcome.** The variable that tracks the outcome is therefore **not targeting precision.** It is **the reality of the lock** (real vs. phantom) and, downstream, whether the real lock was a **leading edge** (scale).
+
+- **Generativity is the durability tell.** A phantom-locked product is **sterile** — it cannot sustain successors or careers (the SSU wound down). A real-locked original is **generative** — it spawns a universe and launches talent (the Askewniverse; Affleck, Lee, Adams). *Same shared-universe structure; opposite fate, decided by the reality of the base audience.*
+- **Construction quality ≠ address quality** (§II.7), proven by the pair: *Clerks* is sloppy in construction and surgical in address; durability followed **address**, not construction.
+- **Corrective to the original thesis:** "surgically constructed with precise appeal" (the *appeal* path) is the more **failure-prone** route — precision is no defence against a phantom. "Reflection to its intended reader" (the *reflection* path) is the **durable** route, because it is immune to both the lag and the phantom lock (§II.8–II.9). *Where the two conflict, authenticity wins.*
+
 ---
 ---
 
@@ -200,6 +240,16 @@ Box office is the **noisiest** settlement signal — marketing spend, release da
 
 ## IV.3 The survivorship illusion
 "The successful ones align strongly" is exactly what you'd observe **even if alignment were random**, because the misaligned-but-successful and the aligned-but-failed both fall out of view. To show alignment **causes** durability rather than merely accompanying it, **hunt the off-diagonal**: the precisely-targeted film that flopped, and the sloppily-targeted film that endured. *The confirming diagonal is cheap; the off-diagonal is the experiment.*
+
+**The off-diagonal is four cells, not two** *(refined by Cases 01 & 02)*:
+- **Targeted → flopped:** (a) aimed at a **real** lock but executionally failed — rehab *possible*; (b) aimed at a **phantom** lock — rehab *structurally unlikely*. ***Morbius* = (b).**
+- **Sloppy → endured:** (c) genuinely **lucky-sloppy** — survived on noise/distribution; (d) **not sloppy targeting at all** — authentic **self-reflection** that *looks* untargeted because there is no visible engineering. ***Clerks* = (d).**
+
+**The distinguishing test:** *does a real demographic exist that the encoded audience could converge on?* Yes → (a) or a real lock; No → (b) phantom. And: *was the targeting engineered (appeal) or reflected (mirror)?* — separating (c) from (d).
+
+**Worked cases on file:** `Morbius-case-study-off-diagonal.md` (cell b), `Clerks-case-study-off-diagonal.md` (cell d). Together they establish §III.5.
+
+**Still open — the off-*off*-diagonal:** the **authentically self-expressed film that did *not* endure** (a *terminal-niche* reflection). This is the cell that tests whether authentic address is *sufficient* for durability or merely *necessary* — i.e. whether distribution and the leading-edge condition (§II.9) are doing the decisive work. Until it is populated, *Clerks* shows **consistency** with the framework, not **confirmation.**
 
 ## IV.4 The experimental loop
 1. Pick a case. **Q0** first (slate unit; priced-loss fingerprints).
@@ -232,6 +282,13 @@ Box office is the **noisiest** settlement signal — marketing spend, release da
 - **The three-question sweep** — the present/present-implied/forecast tenses of the encoded reader; diagnosis lives in the gaps (§II.5).
 - **Q0 / the slate gate** — the unit of intention is the portfolio; losses can be priced-in; admissible only with a pre-settlement fingerprint (§II.6).
 - **Address vs. construction** — this instrument tests the character-as-key-for-a-demographic-lock; authenticity tests the character's truth to itself. Independent (§II.7).
+- **Appeal vs. reflection** — two ways to cut the key: engineered top-down (appeal, phantom-prone) vs. mirrored bottom-up (reflection, phantom-immune but scale-risky) (§II.8).
+- **The risk inversion** — data-betting *feels* safe and is phantom-prone; self-betting *feels* reckless and is the only path to an original (§II.8).
+- **Terminal niche vs. leading edge** — a reflected real lock that stays permanently small vs. one that is a latent mass; the difference is *unknowable at creation* (§II.9).
+- **Prediction by embodiment** — a maker on a leading edge samples the coming mainstream by reflecting the self, not by extrapolating data (§II.9).
+- **Data builds derivatives, reflection builds originals** — landmarks cannot be manufactured from data, which is the fossil record of old landmarks (§II.9 keystone).
+- **Landmark causal chain** — authentic reflection (controllable) × leading-edge niche (unknowable) × distribution (separate gate) (§II.9).
+- **Generativity** — the durability tell: real-locked originals spawn universes and careers; phantom-locked products are sterile (§III.5).
 - **Transmission vector** — the audience modelled as the *delivery mechanism* for the next audience; fan service as toll (§III.1).
 - **Aging-out** — an implied audience locked to one cohort, dying when it leaves; "jumping the shark" is its visible symptom (§III.2).
 - **The self-defined wheelhouse** — implied audience as a renewing contract co-authored by artist and fandom; a culture that reproduces itself (§III.3).
@@ -249,3 +306,6 @@ Box office is the **noisiest** settlement signal — marketing spend, release da
 5. **Closed vs. open Q0 list.** Are the strategic-loss readings (anode, trial-balloon, rights-hold) a **closed checklist** (more falsifiable) or an **open class** where the analyst must name the specific job and its tell each time (more truthful)? Decides whether Q0 is a checklist or a discipline.
 6. **Settlement signal.** What is the cleanest non-gross proxy for "was the demographic well-cut" — rehabilitation trajectory, next-bet vector, or something composite?
 7. **Wheelhouse departure.** Can the instrument predict, in advance, when leaving a self-defined wheelhouse will break the contract vs. successfully expand it?
+8. **Off-off-diagonal (primary next experiment).** The authentically self-expressed film that did *not* endure (terminal-niche reflection) — needed to test whether authentic address is *sufficient* or merely *necessary* for durability.
+9. **Leading-edge predictability.** Is there *any* pre-settlement heuristic for whether a reflected niche is a leading edge or a terminal niche — or is it irreducibly unknowable at creation (§II.9)? If even weakly predictable, the reflection bet stops being pure variance.
+10. **Can data ever sample forward?** Is the "data builds only derivatives" claim absolute, or can instrumentation eventually read emergent/unmeasured demographics (e.g. fine-grained early-signal detection) — and if so, does that collapse the appeal/reflection distinction (§II.8–II.9)?
